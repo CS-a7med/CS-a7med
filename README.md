@@ -11,7 +11,7 @@
 
 ### 🌱 About Me
 - 🎓 Computer Science Graduate  
-- 💻 Currently working on **Flutter Apps & Web APIs**  
+- 💻 Currently working on **Flutter Apps & Web Desgin**  
 - 🌍 Open to **Remote Opportunities**  
 - 📫 Reach me at **a7medalhusain@gmail.com**  
 - ⚡ Fun fact: *I love solving challenges and turning ideas into apps*  
