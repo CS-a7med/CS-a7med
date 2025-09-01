@@ -14,7 +14,7 @@
 - 💻 Currently working on **Flutter Apps & Web Desgin**  
 - 🌍 Open to **Remote Opportunities**  
 - 📫 Reach me at **a7medalhusain@gmail.com**  
-- ⚡ Fun fact: *I love solving challenges and turning ideas into apps*  
+- ⚡ **Embracing challenges, fueled by curiosity**  
 
 
 ### 🛠️ Languages & Tools
