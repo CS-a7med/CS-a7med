@@ -35,7 +35,7 @@
 ---
 
 ### 🚀 Featured Projects
-- 🐍 [Snake Game](https://github.com/cs-a7med/snake-game) – Classic snake game with extra features (Python + Tkinter)  
+- 🐍 [Snake Game](https://github.com/CS-a7med/first-repo) – Classic snake game with extra features (Python + Tkinter)  
 ---
 
 ### 📊 GitHub Stats
